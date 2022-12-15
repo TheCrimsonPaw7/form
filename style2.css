@@ -1,0 +1,40 @@
+
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+
+form{
+    width:50%;
+    margin:auto;
+    display:flex;
+    flex-direction:column;
+    gap:1rem;
+    padding:2rem 0;
+}
+
+.formitem{
+    display:flex;
+    flex-direction:column;
+    gap:0.5rem;
+}
+
+.formitem input{
+    font-size:20px;
+    padding:0.5rem;
+}
+
+.formitem label{
+    font-size:20px;
+    font-weight:500;
+}
+
+.formitem button{
+    border:none;
+    padding:0.7rem 1.5rem;
+    color:white;
+    background:crimson;
+    font-size:20px;
+    font-weight:600;
+}
