@@ -39,3 +39,7 @@ form{
     font-weight:600;
     border-radius:2rem;
 }
+
+.body{
+    background:red;
+}
