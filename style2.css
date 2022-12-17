@@ -5,7 +5,7 @@
     box-sizing:border-box;
 }
 
-form{
+.form{
     width:50%;
     margin:auto;
     display:flex;
